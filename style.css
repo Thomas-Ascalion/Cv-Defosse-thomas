@@ -162,3 +162,9 @@ li img{
         flex: 1 1 100%;
     }
 }
+
+
+/* Classe pour changer la couleur des icônes en vert */
+.green {
+    filter: brightness(0) saturate(100%) invert(51%) sepia(94%) saturate(5751%) hue-rotate(80deg) brightness(103%) contrast(101%);
+}
