@@ -92,12 +92,9 @@ li img{
         border-bottom-right-radius: 50px;
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
-.qrcode img {
-    width: 150px;
-    height: auto;
-}
 
 @media screen and (max-width: 700px) {
     .header {
